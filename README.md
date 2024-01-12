@@ -10,5 +10,3 @@ This Java project involves creating a server that can handle multiple clients. T
 - Net Salary Calculation
 
 The server is designed to handle multiple clients simultaneously through the use of the `ClientHandler` class implementing the `Runnable` interface. Clients can connect to the server, choose a financial service from the provided menu, and receive the corresponding calculations.
-
-Feel free to customize and expand upon the server's functionality based on your project requirements.
